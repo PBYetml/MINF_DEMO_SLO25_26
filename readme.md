@@ -1,5 +1,5 @@
 # MINF - DEMO SLO - 25-26 
-démo réaliser dans le cadre du cours de MINF 
+Démo réalisée dans le cadre du cours de MINF 
 
 -> configuration de base avec Harmony 
 
